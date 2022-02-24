@@ -1,7 +1,7 @@
 #!/bin/sh
 LANG=en_US
 export CUDA_VISIBLE_DEVICES=1
-# cp -r /mnt/smplify_x /bodyshop/smplify_x
+cp -r /mnt/smplify_x /bodyshop/smplify_x
 # cp /mnt/openpose_python.py /bodyshop/openpose_python.py
 # cp /mnt/conversions.py /usr/local/lib/python3.8/dist-packages/torchgeometry/core/
 # cd /bodyshop/openpose/build/examples/tutorial_api_python
